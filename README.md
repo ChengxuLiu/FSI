@@ -40,7 +40,7 @@ This is the official PyTorch implementation of the paper [FSI: Frequency and Spa
 The output results on P-OLED, T-OLED and SYNTH can be downloaded from [google drive](https://drive.google.com/drive/folders/1YETPY8dY1UnODLVe8k2VhrlinIR9mibm?usp=sharing).
 
 ## Dataset
-The datasets are available at [POLED](https://drive.google.com/file/d/1M1mE-MfSPiMhj1fRvfFMhkRRa3mvEocJ/view?usp=sharing) containing the pre-processed UDC images, [TOLED](https://drive.google.com/file/d/1ig6BROpAI-2fgM9YnIquyM5LMe2UY4Qq/view?usp=sharing) and [SYNTH](https://drive.google.com/file/d/1ctYHU70TZlQzVwAR4yOA1G-c1gsaWqzX/view?usp=sharing)
+The datasets are available at [POLED](https://drive.google.com/file/d/1M1mE-MfSPiMhj1fRvfFMhkRRa3mvEocJ/view?usp=sharing) containing the pre-processed UDC images, [TOLED](https://drive.google.com/file/d/1ig6BROpAI-2fgM9YnIquyM5LMe2UY4Qq/view?usp=sharing) and [SYNTH](https://drive.google.com/file/d/1ctYHU70TZlQzVwAR4yOA1G-c1gsaWqzX/view?usp=sharing).
 
 ## Test
 1. Clone this github repo
@@ -85,4 +85,4 @@ If you meet any problems, please describe them in issues or contact:
 * Chengxu Liu: <liuchx97@gmail.com>
 
 ## Acknowledgement
-The code of FSI is built upon [BNUDC](https://github.com/JaihyunKoh/BNUDC/tree/main), and we express our gratitude to these awesome projects.
+The code of FSI is built upon [BNUDC](https://github.com/JaihyunKoh/BNUDC/tree/main) and [LaMa](https://github.com/advimman/lama), and we express our gratitude to these awesome projects.
