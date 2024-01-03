@@ -5,7 +5,7 @@ This is the official PyTorch implementation of the paper [FSI: Frequency and Spa
 - [Overview](#overview)
 - [Contribution](#contribution)
 - [Requirements and dependencies](#requirements-and-dependencies)
-- [Model and Results](#model-and-results)
+- [Results](#results)
 - [Dataset](#dataset)
 - [Test](#test)
 - [Train](#train)
@@ -36,7 +36,7 @@ This is the official PyTorch implementation of the paper [FSI: Frequency and Spa
 * numpy == 1.21.6
 * warmup_scheduler == 0.3
 
-## Model and Results
+## Results
 The output results on P-OLED, T-OLED and SYNTH can be downloaded from [google drive](https://drive.google.com/drive/folders/1YETPY8dY1UnODLVe8k2VhrlinIR9mibm?usp=sharing).
 
 ## Dataset
